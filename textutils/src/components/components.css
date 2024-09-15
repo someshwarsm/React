@@ -1,0 +1,10 @@
+/* Light mode placeholder color */
+.light-placeholder::placeholder {
+    color: white; /* Change this to any color you want */
+  }
+  
+  /* Dark mode placeholder color */
+  .dark-placeholder::placeholder {
+    color: black; /* Change this to any color you want */
+  }
+  
